@@ -1,0 +1,7 @@
+E:\VKU4\c#\project\exercises_week5\BookManaging\BookManaging\bin\Debug\BookManaging.exe.config
+E:\VKU4\c#\project\exercises_week5\BookManaging\BookManaging\bin\Debug\BookManaging.exe
+E:\VKU4\c#\project\exercises_week5\BookManaging\BookManaging\bin\Debug\BookManaging.pdb
+E:\VKU4\c#\project\exercises_week5\BookManaging\BookManaging\obj\Debug\BookManaging.csproj.AssemblyReference.cache
+E:\VKU4\c#\project\exercises_week5\BookManaging\BookManaging\obj\Debug\BookManaging.csproj.CoreCompileInputs.cache
+E:\VKU4\c#\project\exercises_week5\BookManaging\BookManaging\obj\Debug\BookManaging.exe
+E:\VKU4\c#\project\exercises_week5\BookManaging\BookManaging\obj\Debug\BookManaging.pdb
